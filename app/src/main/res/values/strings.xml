@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">claseRealtimeDatabase1</string>
+    <string name="sign_out">Sign out</string>
+    <string name="revocar">Revocar</string>
+</resources>

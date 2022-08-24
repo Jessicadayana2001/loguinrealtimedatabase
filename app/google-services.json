@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "677479748441",
+    "firebase_url": "https://asoftware2022-i-1928a-default-rtdb.firebaseio.com",
+    "project_id": "asoftware2022-i-1928a",
+    "storage_bucket": "asoftware2022-i-1928a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677479748441:android:7127e9366dfb4e639df248",
+        "android_client_info": {
+          "package_name": "com.example.clasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677479748441-ti0u80hv6dkadmebk0ekqljldp4r4i98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_WpsgRA27FEtsL5VDKsLsMsNwwcuhNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677479748441-ti0u80hv6dkadmebk0ekqljldp4r4i98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677479748441:android:e9b1195e7485ecac9df248",
+        "android_client_info": {
+          "package_name": "com.example.claserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677479748441-ti0u80hv6dkadmebk0ekqljldp4r4i98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_WpsgRA27FEtsL5VDKsLsMsNwwcuhNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677479748441-ti0u80hv6dkadmebk0ekqljldp4r4i98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677479748441:android:6d70691f706b01709df248",
+        "android_client_info": {
+          "package_name": "com.example.claserealtimedatabase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677479748441-ti0u80hv6dkadmebk0ekqljldp4r4i98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8_WpsgRA27FEtsL5VDKsLsMsNwwcuhNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677479748441-ti0u80hv6dkadmebk0ekqljldp4r4i98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

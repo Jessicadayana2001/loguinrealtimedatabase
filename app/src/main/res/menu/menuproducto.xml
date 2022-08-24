@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/icon_add1"
+        android:icon="@mipmap/nuevo"
+        android:title="Agregar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/icon_save1"
+        android:icon="@mipmap/actualizar"
+        android:title="Actualizar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/icon_delete1"
+        android:icon="@mipmap/eliminar"
+        android:title="Eliminar"
+        app:showAsAction="always" />
+    <item
+        android:icon="@mipmap/buscar"
+        android:title="Item"
+        app:showAsAction="always" />
+</menu>
